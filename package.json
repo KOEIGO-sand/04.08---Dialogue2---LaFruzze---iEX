@@ -1,0 +1,16 @@
+{
+  "name": "0408-dialogue2-lafruzze-iex",
+  "version": "1.0.0",
+  "description": "",
+  "main": "sketch.js",
+  "scripts": {
+    "start": "serve",
+    "build": "echo This is a static template, there is no bundler or bundling involved!"
+  },
+  "keywords": [],
+  "author": "Clay and KDawg",
+  "license": "MIT + KOEIGO",
+  "devDependencies": {
+    "serve": "^11.2.0"
+  }
+}
